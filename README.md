@@ -6,7 +6,7 @@ Hi there! I'm RunningLiLi. I'm a front-end development who is proficient in Reac
 
 ### Ideas?
 - 🔭 I’m currently studying on [CQUPT](http://www.cqupt.edu.cn/)
-- 🌱 I’m currently learning css,flutter,apollo... 
+- 🌱 I’m currently learning Css,Flutter,Apollo... 
 - 💬 Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.
 - 📫 How to reach me: WeChat:ll7755411 QQNumber:3238367573.
 
