@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**RunningLiLi/RunningLiLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Introduction
+Hi there! I'm RunningLiLi. I'm a front-end development who is proficient in React and Vite
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ideas?
+- 🔭 I’m currently studying on [CQUPT](http://www.cqupt.edu.cn/)
+- 🌱 I’m currently learning css,flutter,apollo... 
+- 💬 Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects.
+- 📫 How to reach me: WeChat:ll7755411 QQNumber:3238367573.
+
+### Language
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RunningLiLi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Herrington's GitHub stats](https://github-readme-stats.vercel.app/api?username=RunningLiLi)](https://github.com/anuraghazra/github-readme-stats)--!>
+
